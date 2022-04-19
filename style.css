@@ -235,6 +235,7 @@ background-color: #caf1f1;
    margin-top: 5%;
    margin-left: 40%;
    font-size: 200%;
+ 
  }
 
 .text4{
@@ -249,11 +250,9 @@ background-color: #caf1f1;
    background-color: #cdf7f7;
    min-height: 50%;
 }
-
-.blog h3{
-   margin-left: 30%;
-   margin-top: 4%;
-
+.blog{
+   border-radius: 10%;
+   border: 15%;
 }
 .cribe{
    background-color: #03A6A6;
