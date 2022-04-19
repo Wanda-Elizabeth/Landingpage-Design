@@ -1,0 +1,301 @@
+body{
+    background-color: #e8fffb;
+ }
+ .topnav {
+    margin-left: 65%;
+    overflow: hidden;
+    margin-top: 2%;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: #1b1919;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  strong{
+    color: black;
+    text-decoration: none;
+   padding-bottom: 1%;
+   margin-left: 12%;
+   margin-top: 10%;
+  
+}
+span{
+    color: #03A6A6;
+    font-size:  30px;
+    text-decoration: none;
+    margin-left: 0%;
+ }
+ .vet{
+    padding-left: 2%;
+    color: #f7ab1e;
+    margin-left: 10%;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT',  'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    margin-left: 11%; 
+ }
+ .par p{
+    font-size: medium;
+    margin-left: 10%;
+ }
+ .fa{
+    border: solid 15px #e5e7eb;
+    border-width: 5%;
+    border-radius: 50%;
+    color: #15acc7;
+ }
+ .btn{
+    border:10px solid #1bb7c2;
+   margin-left: 10%;
+ }
+
+ .lady img{
+ border:65px solid #cfffff;
+ border-radius: 50%;
+ width:400px;
+ height: 400px;
+ margin-top: -25%;
+ margin-left: 50%;
+ text-align: 56px;
+ }
+ .all{
+     background-color: #f1feff; 
+     margin-top: 2%;
+ }
+.statement h1{
+   font-size: 300%;
+   margin-left: 3%;
+   margin-bottom: -2%;
+   color: #292727;
+}
+ .word p{
+     margin-left: 70%;
+     margin-top: 1%;
+  }
+  .lap{
+     margin-left: 13%;
+     margin-top: 4%;
+     background-color: #f7faff;
+     width: 250px;
+     height: 200px;
+
+  }
+  .plus{
+   margin-left: 40%;
+   margin-top: -15%;
+   background-color: #f7faff;
+   width: 250px;
+   height: 200px;
+  }
+  .sign{
+   margin-left: 70%;
+   margin-top: -15.5%;
+   background-color: #f7faff;
+   width: 250px;
+   height: 200px;
+  }
+  
+ .operation{
+    margin-left: 13%;
+    margin-top: 9%;
+    background-color: #f7faff;
+    width: 250px;
+    height: 200px;
+ }
+ .service{
+   margin-left: 40%;
+   margin-top: -15%;
+   background-color: #f7faff;
+   width: 250px;
+   height: 200px;
+ }
+ .pet{
+   margin-left: 70%;
+   margin-top: -15.5%;
+   background-color: #f7faff;
+   width: 250px;
+   height: 200px;
+ }
+ .second{
+    background-color: #e8fffb;
+ }
+ .pic img{
+ border-radius: 5%;
+ width: 40%;
+ height: 4%;
+margin-left: 6%;
+ margin-top: 6%;
+ background-color: #b0f7f7;
+ }
+ .third{
+    margin-left: 50%;
+    margin-top: -28%;
+ }
+ .third h1{
+    font-size: 40px;
+    font-style: normal;
+    color: #292727;
+ }
+ .third p{
+margin-left: 12%;
+ }
+ .third h3{
+    background-color: #1bb7c2;
+    border-radius: -20% ;
+    width: 20%;
+    height: 15%;
+    margin-left: 15%;
+   margin-bottom: 30px;
+ }
+
+ .forth {
+    background-color: #f1feff;
+    margin-top: -25%;
+ }
+ .say h2{
+  margin-top: 35%;
+  font-size: 250%;
+  color: #292727;
+  margin-left: 15%;
+  background-color: #f1feff; 
+ }
+ .say p{
+    margin-left: 70%;
+  margin-top: -6%;
+ }
+ .intrest {
+    margin-left: 10%;
+    margin-top: 10%;
+    background-color: #fbfbfb;
+   width: 350px;
+ }
+.staff{
+   margin-left: 55%;
+   margin-top: -20%;
+   background-color: #fbffff;
+  width:350px ;
+}
+.stars i{
+  color: #f7ab1e;
+}
+.star2 i{
+color: #f7ab1e;
+}
+.staff h5{
+   margin-left: 50%;
+   margin-top: -15%;
+   color: #03A6A6;
+}
+.high h1{
+font-size: 200%;
+color: #292727;
+margin-top: 5%;
+}
+.high p{
+   margin-left: 80%;
+   color: #03A6A6;
+   margin-top: -5%;
+}
+.doc1{
+ margin-left: 15%;
+ margin-top: 6%;
+}
+
+.doc1 img{
+   width: 20%;
+   background-color: #caf1f1;
+}
+.docc2{
+   margin-left: 40%;
+   margin-top: -30%;
+}
+
+.docc2 img{
+width:25%;
+background-color: #f1cad7;
+  
+}
+.doc3{
+ margin-left: 70%;
+ margin-top: -31%;
+
+ }
+.doc3 img{
+width: 55%;
+background-color: #caf1f1;
+
+}
+.blog h2{
+   margin-top: 5%;
+   margin-left: 40%;
+   font-size: 200%;
+ }
+
+.text4{
+   border: 200% ;
+   width: 60%;
+  min-height: 60px;
+   margin-left: 10%;
+
+}
+.fifth{
+  
+   background-color: #cdf7f7;
+   min-height: 50%;
+}
+
+.blog h3{
+   margin-left: 30%;
+   margin-top: 4%;
+
+}
+.cribe{
+   background-color: #03A6A6;
+   color: #e5e7eb;
+  border-radius: 2%;
+  margin-left: -14%;
+  margin-top: -6%;
+  min-height: 15%;
+  width: 4%;
+
+}
+.footer{
+   margin-left: 10%;
+   margin-top: 10%;
+}
+.footer a{
+   margin-left:-12%;
+}
+.pro{
+   margin-left: 35%;
+   margin-top: -15%;
+}
+.comm{
+   margin-left: 60%;
+   margin-top: -13%;
+}
+.about{
+   margin-left: 80%;
+   margin-top: -14%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
